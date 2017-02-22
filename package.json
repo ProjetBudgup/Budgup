@@ -4,6 +4,7 @@
   "description": "An application that helps you manage your budget",
   "main": "server.js",
   "dependencies": {
+    "coveralls": "^2.8.0",
     "deprecated": "^0.0.1",
     "body-parser": "1.14.2",
     "codacy-coverage": "^1.1.3",
@@ -34,8 +35,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node_modules/.bin/nodemon server.js --ignore client/",
-    "test": "gulp",
-    "coveralls": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat test/coverage/lcov.info && gulp coveralls && rm -rf test/coverage"
+    "test": "./node_modules/.bin/gulp",
+    "coveralls": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info && gulp coveralls && rm -rf ./coverage"
   },
   "repository": {
     "type": "git",
