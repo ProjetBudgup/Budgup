@@ -1,5 +1,3 @@
-#Budgup 
-
 ## What is Budgup
  
  Budgup is an application that helps you manage your money. Indeed, with our algorithm you can predict you balance at the end of the month.
@@ -10,7 +8,7 @@
   - See all you future spent in a very explicit way.
   - Anticipate you balance : if an operation occurred more than twice during the last three months, that means that you'll probably have the same the next month.
   
- ## Release to come : 1.0
+## Release to come : 1.0
  
  Thanks to the features coming, the algorithm will be more precise. It will be able to :
  
