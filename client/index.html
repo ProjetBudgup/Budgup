@@ -89,7 +89,7 @@
         <div class="right_col" role="main">
           <div class="">
             <div class="row tile_count">
-              <div id="total" class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
+              <div id="total" class="tile_stats_count">
                 <span class="count_top"><i class="fa fa-money"></i> Montant Compte</span>
                 <div class="count">0 €</div>
               </div>
@@ -156,7 +156,9 @@
 
         $(document).ready(function(){
             $.get("/get_operations", function(data){
-                var total = 0;
+                var totalMin = 0;
+                var totalMax = 0;
+              //var total = 0;
                 data.map(function(item, i) {
                     $("#bankoperations tbody").append(
                         '<tr>'+
@@ -166,16 +168,19 @@
                             '<td>'+item.raw+'</td>'+
                         '</tr>'
                     );
-                    total += item.amount;
+                    totalMin += item.min;
+                    totalMax += item.max;
+                  //total = item.amount;
                 });
                 if (data.length == 0) {
                   $("#bankoperations tbody").append(
                         '<tr>'+
-                            '<td colspan="4">Aucune charge à venir trouvée.</td>'+
+                            '<td colspan="4">Aucune charge à venir trouvée :(.</td>'+
                         '</tr>'
                     );
                 }
-                $("#total .count").text(total.toFixed(2)+" €");
+                $("#total .count").text("Entre " + totalMin.toFixed(2)+" € et " + totalMax.toFixed(2)+ " €");
+                //$("#total .count").text(total.toFixed(2)+" €");
             });
         })
     </script>

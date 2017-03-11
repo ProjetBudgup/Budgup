@@ -1,6 +1,17 @@
 
 {"docs":[
   {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c005da4",
+    "amount": -22.28,
+    "bankAccount": "2531",
+    "date": "2016-03-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
     "_id": "1c8d344ddf76caf9ad7ce4b55c005da5",
     "amount": -22.28,
     "bankAccount": "2531",
@@ -12,10 +23,99 @@
     "title": "ESPA Carte Hassan Cehef"
   },
   {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c006a0a",
+    "amount": -7.9,
+    "bankAccount": "2531",
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "CB Spotifaille London",
+    "title": "CB Spotifaille"
+  },
+  {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c006a68",
+    "amount": -58.05,
+    "bankAccount": "2531",
+    "date": "2016-05-01T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba90120a5",
+    "raw": "Courses chez Polyprix",
+    "title": "Polyprix CB"
+  },
+  {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c0075ac",
+    "amount": 718.43,
+    "bankAccount": "2531",
+    "date": "2016-02-10T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "VIR Pots de vin et magouilles pas claires",
+    "title": "VIR Pots de vin et magouilles pas claires"
+  },
+  {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c0083e4",
+    "amount": 569.38,
+    "bankAccount": "2531",
+    "date": "2016-07-07T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900eb4c",
+    "raw": "Passage par la case depart",
+    "title": "Case départ"
+  },
+  {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c009090",
+    "amount": -21.18,
+    "bankAccount": "2531",
+    "date": "2016-01-02T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "ESPA Indirect Energie SARL",
+    "title": "Indirect Energie"
+  },
+  {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c009840",
+    "amount": -43.46,
+    "bankAccount": "2531",
+    "binary": {
+      "fileName": "__dev_example_file"
+    },
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "CB NOGO Sport",
+    "title": "NOGO Sport"
+  },
+  {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c00a382",
+    "amount": -11.58,
+    "bankAccount": "2531",
+    "date": "2016-07-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c00a5e1",
+    "amount": -7.64,
+    "bankAccount": "2531",
+    "date": "2016-05-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba901071c",
+    "raw": "ESPA Digiticable",
+    "title": "Digiticable"
+  },
+  {
     "_id": "1c8d344ddf76caf9ad7ce4b55c00ade3",
     "amount": -3.05,
     "bankAccount": "2531",
-    "date": "2017-01-17T00:00:00.000Z",
+    "date": "2016-12-03T00:00:00.000Z",
     "dateImport": "2016-08-11T14:51:59.000Z",
     "docType": "BankOperation",
     "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
@@ -26,7 +126,7 @@
     "_id": "1c8d344ddf76caf9ad7ce4b55c00ade7",
     "amount": -3.05,
     "bankAccount": "2531",
-    "date": "2017-02-17T00:00:00.000Z",
+    "date": "2017-01-03T00:00:00.000Z",
     "dateImport": "2016-08-11T14:51:59.000Z",
     "docType": "BankOperation",
     "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
@@ -37,11 +137,532 @@
     "_id": "1c8d344ddf76caf9ad7ce4b55c00ade8",
     "amount": -3.05,
     "bankAccount": "2531",
-    "date": "2016-12-16T00:00:00.000Z",
+    "date": "2017-02-03T00:00:00.000Z",
     "dateImport": "2016-08-11T14:51:59.000Z",
     "docType": "BankOperation",
     "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
     "raw": "CB online Sergent Tchoutchou",
     "title": "Sergent Tchoutchou"
+  },
+  {
+    "_id": "1c8d344ddf76caf9ad7ce4b55c00adeb",
+    "amount": -3.05,
+    "bankAccount": "2531",
+    "date": "2016-07-03T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "CB online Sergent Tchoutchou",
+    "title": "Sergent Tchoutchou"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c004173",
+    "amount": -22.28,
+    "bankAccount": "2531",
+    "date": "2016-03-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c004607",
+    "amount": -7.9,
+    "bankAccount": "2531",
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "CB Spotifaille London",
+    "title": "CB Spotifaille"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c004a75",
+    "amount": -58.05,
+    "bankAccount": "2531",
+    "date": "2016-05-01T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba90120a5",
+    "raw": "Courses chez Polyprix",
+    "title": "Polyprix CB"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c005717",
+    "amount": 718.43,
+    "bankAccount": "2531",
+    "date": "2016-02-10T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "VIR Pots de vin et magouilles pas claires",
+    "title": "VIR Pots de vin et magouilles pas claires"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c0058f9",
+    "amount": 569.38,
+    "bankAccount": "2531",
+    "date": "2016-07-07T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900eb4c",
+    "raw": "Passage par la case depart",
+    "title": "Case départ"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00651f",
+    "amount": -21.18,
+    "bankAccount": "2531",
+    "date": "2016-01-02T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "ESPA Indirect Energie SARL",
+    "title": "Indirect Energie"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00661f",
+    "amount": -43.46,
+    "bankAccount": "2531",
+    "binary": {
+      "fileName": "__dev_example_file"
+    },
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "CB NOGO Sport",
+    "title": "NOGO Sport"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c0068a5",
+    "amount": -11.58,
+    "bankAccount": "2531",
+    "date": "2016-07-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c006e06",
+    "amount": -7.64,
+    "bankAccount": "2531",
+    "date": "2016-05-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba901071c",
+    "raw": "ESPA Digiticable",
+    "title": "Digiticable"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c007011",
+    "amount": -3.05,
+    "bankAccount": "2531",
+    "date": "2016-07-03T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "CB online Sergent Tchoutchou",
+    "title": "Sergent Tchoutchou"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c009493",
+    "amount": -22.28,
+    "bankAccount": "2531",
+    "date": "2016-03-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c0097f3",
+    "amount": -7.9,
+    "bankAccount": "2531",
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "CB Spotifaille London",
+    "title": "CB Spotifaille"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00997c",
+    "amount": -58.05,
+    "bankAccount": "2531",
+    "date": "2016-05-01T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba90120a5",
+    "raw": "Courses chez Polyprix",
+    "title": "Polyprix CB"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00a1e9",
+    "amount": 718.43,
+    "bankAccount": "2531",
+    "date": "2016-02-10T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "VIR Pots de vin et magouilles pas claires",
+    "title": "VIR Pots de vin et magouilles pas claires"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00a4fd",
+    "amount": 569.38,
+    "bankAccount": "2531",
+    "date": "2016-07-07T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900eb4c",
+    "raw": "Passage par la case depart",
+    "title": "Case départ"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00aff1",
+    "amount": -21.18,
+    "bankAccount": "2531",
+    "date": "2016-01-02T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "ESPA Indirect Energie SARL",
+    "title": "Indirect Energie"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00bb61",
+    "amount": -43.46,
+    "bankAccount": "2531",
+    "binary": {
+      "fileName": "__dev_example_file"
+    },
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "CB NOGO Sport",
+    "title": "NOGO Sport"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00c0c1",
+    "amount": -11.58,
+    "bankAccount": "2531",
+    "date": "2016-07-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00ccbc",
+    "amount": -7.64,
+    "bankAccount": "2531",
+    "date": "2016-05-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba901071c",
+    "raw": "ESPA Digiticable",
+    "title": "Digiticable"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c00dc06",
+    "amount": -3.05,
+    "bankAccount": "2531",
+    "date": "2016-07-03T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "CB online Sergent Tchoutchou",
+    "title": "Sergent Tchoutchou"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c012981",
+    "amount": -22.28,
+    "bankAccount": "2531",
+    "date": "2016-03-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c01386c",
+    "amount": -7.9,
+    "bankAccount": "2531",
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "CB Spotifaille London",
+    "title": "CB Spotifaille"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c013acc",
+    "amount": -58.05,
+    "bankAccount": "2531",
+    "date": "2016-05-01T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba90120a5",
+    "raw": "Courses chez Polyprix",
+    "title": "Polyprix CB"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c014264",
+    "amount": 718.43,
+    "bankAccount": "2531",
+    "date": "2016-02-10T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "VIR Pots de vin et magouilles pas claires",
+    "title": "VIR Pots de vin et magouilles pas claires"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c0147ea",
+    "amount": 569.38,
+    "bankAccount": "2531",
+    "date": "2016-07-07T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900eb4c",
+    "raw": "Passage par la case depart",
+    "title": "Case départ"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c0154f7",
+    "amount": -21.18,
+    "bankAccount": "2531",
+    "date": "2016-01-02T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "ESPA Indirect Energie SARL",
+    "title": "Indirect Energie"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c0157de",
+    "amount": -43.46,
+    "bankAccount": "2531",
+    "binary": {
+      "fileName": "__dev_example_file"
+    },
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "CB NOGO Sport",
+    "title": "NOGO Sport"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c015c56",
+    "amount": -11.58,
+    "bankAccount": "2531",
+    "date": "2016-07-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c016821",
+    "amount": -7.64,
+    "bankAccount": "2531",
+    "date": "2016-05-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba901071c",
+    "raw": "ESPA Digiticable",
+    "title": "Digiticable"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c017576",
+    "amount": -3.05,
+    "bankAccount": "2531",
+    "date": "2016-07-03T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "CB online Sergent Tchoutchou",
+    "title": "Sergent Tchoutchou"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c01d4f4",
+    "amount": -22.28,
+    "bankAccount": "2531",
+    "date": "2016-03-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c01e40d",
+    "amount": -7.9,
+    "bankAccount": "2531",
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900d6c1",
+    "raw": "CB Spotifaille London",
+    "title": "CB Spotifaille"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c01eae9",
+    "amount": -58.05,
+    "bankAccount": "2531",
+    "date": "2016-05-01T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba90120a5",
+    "raw": "Courses chez Polyprix",
+    "title": "Polyprix CB"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c01f347",
+    "amount": 718.43,
+    "bankAccount": "2531",
+    "date": "2016-02-10T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "VIR Pots de vin et magouilles pas claires",
+    "title": "VIR Pots de vin et magouilles pas claires"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c0201d3",
+    "amount": 569.38,
+    "bankAccount": "2531",
+    "date": "2016-07-07T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900eb4c",
+    "raw": "Passage par la case depart",
+    "title": "Case départ"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c0202ad",
+    "amount": -21.18,
+    "bankAccount": "2531",
+    "date": "2016-01-02T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "ESPA Indirect Energie SARL",
+    "title": "Indirect Energie"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c020ae0",
+    "amount": -43.46,
+    "bankAccount": "2531",
+    "binary": {
+      "fileName": "__dev_example_file"
+    },
+    "date": "2016-01-08T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "raw": "CB NOGO Sport",
+    "title": "NOGO Sport"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c021401",
+    "amount": -11.58,
+    "bankAccount": "2531",
+    "date": "2016-07-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:49:47.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900fb9a",
+    "raw": "Paiement carte Hassan Cehef",
+    "title": "ESPA Carte Hassan Cehef"
+  },
+  {
+    "_id": "73b4d1ba73b79260660c64118c022206",
+    "amount": -7.64,
+    "bankAccount": "2531",
+    "date": "2016-05-09T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba901071c",
+    "raw": "ESPA Digiticable",
+    "title": "Digiticable"
+  },
+  {
+    "_id": "73b4d1ba73b72349260660c64118c0226db",
+    "amount": -3.05,
+    "bankAccount": "2531",
+    "date": "2017-03-03T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "Bouygues Telecom",
+    "title": "Bouygues Telecom"
+  },
+  {
+    "_id": "73b4d1ba73b7339260660c64118c0226db",
+    "amount": -3.05,
+    "bankAccount": "2531",
+    "date": "2017-02-03T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "Bouygues Telecom",
+    "title": "Bouygues Telecom"
+  },
+  {
+    "_id": "73b4d1ba73azeb79260660c64118c0226db",
+    "amount": -3.05,
+    "bankAccount": "2531",
+    "date": "2017-01-03T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "Bouygues Telecom",
+    "title": "Bouygues Telecom"
+  },
+  {
+    "_id": "73b4d1ba73b7449260660c64118c0226db",
+    "amount": -3.05,
+    "bankAccount": "2531",
+    "date": "2017-01-03T00:00:00.000Z",
+    "dateImport": "2016-12-03T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "Bouygues Telecom",
+    "title": "Bouygues Telecom"
+  },
+  {
+    "_id": "73b4d1ba73b79333260660c64118c0226db",
+    "amount": -200.05,
+    "bankAccount": "2531",
+    "date": "2017-01-19T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "EDF",
+    "title": "EDF"
+  },
+  {
+    "_id": "73b4d1ba73b79263330660c64118c0226db",
+    "amount": -300.05,
+    "bankAccount": "2531",
+    "date": "2017-02-19T00:00:00.000Z",
+    "dateImport": "2016-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "EDF",
+    "title": "EDF"
+  },
+  {
+    "_id": "73b4d1ba73b792340660c64118c0226db",
+    "amount": -300.05,
+    "bankAccount": "2531",
+    "date": "2016-12-19T00:00:00.000Z",
+    "dateImport": "2017-08-11T14:51:59.000Z",
+    "docType": "BankOperation",
+    "operationTypeID": "b24a4f14e7f1a2ee3b507b2ba900f5d5",
+    "raw": "EDF",
+    "title": "EDF"
   }
 ]}
