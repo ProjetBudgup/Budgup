@@ -11,17 +11,17 @@
  
 # Table of contents
 
-- [Environment to use Budgup](#Environment to use Budgup)
-    - [What is Cozy?](##What is Cozy?)
-    - [Install a Cozy environment](##Install a Cozy environment)
-    - [Get Budgup on my Cozy](##Get Budgup on my Cozy)
+* [Environment to use Budgup](#Environment-to-use-Budgup)
+    * [What is Cozy?](#What-is-Cozy?)
+    * [Install a Cozy environment](#Install-a-Cozy-environment)
+    * [Get Budgup on my Cozy](#Get-Budgup-on-my-Cozy)
 - [Releases](#Releases)
-    - [Release 0.2.0](##Release 0.2.0)
-    - [Release Alpha 1.0](##Release Alpha 1.0)
-    - [Release Alpha bis 1.2](##Release Alpha bis 1.2)
-- [Test the app](#Test the app)
-    - [Alpha and Beta testers](##Alpha and Beta testers)
-    - [Report the issues](##Report the issues)
+    - [Release 0.2.0](#Release-0.2.0)
+    - [Release Alpha 1.0](##Release-Alpha-1.0)
+    - [Release Alpha bis 1.2](##Release-Alpha-bis-1.2)
+- [Test the app](#Test-the-app)
+    - [Alpha and Beta testers](#Alpha-and-Beta-testers)
+    - [Report the issues](#Report-the-issues)
 
 
 # Environment to use Budgup
