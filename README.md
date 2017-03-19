@@ -10,13 +10,13 @@ Table of contents
 =================
 
 * [Environment to use Budgup](#environment-to-use-Budgup)
-    * [What is Cozy?](#what-is-Cozy?)
+    * [What is Cozy?](#what-is-Cozy)
     * [Install a Cozy environment](#install-a-cozy-environment)
     * [Get Budgup on my Cozy](#get-budgup-on-my-cozy)
 - [Releases](#releases)
-    - [Release 0.2.0](#release-0.2.0)
-    - [Release Alpha 1.0](#release-alpha-1.0)
-    - [Release Alpha bis 1.2](#release-alpha-bis-1.2)
+    - [Release 0.2.0](#release-0-2-0)
+    - [Release Alpha 1.0](#release-alpha-1-0)
+    - [Release Alpha bis 1.2](#release-alpha-bis-1-2)
 - [Test the app](#test-the-app)
     - [Alpha and Beta testers](#alpha-and-beta-testers)
     - [Report the issues](#report-the-issues)
@@ -25,7 +25,7 @@ Table of contents
 Environment to use Budgup
 =========================
 
-What is Cozy?
+What is Cozy
 -------------
 
 Cozy is a personal web deployment platform, which enables you to quickly bootstrap applications and interact with your data.
