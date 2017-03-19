@@ -10,7 +10,7 @@ Table of contents
 =================
 
 * [Environment to use Budgup](#environment-to-use-Budgup)
-    * [What is Cozy?](#what-is-Cozy)
+    * [What is Cozy?](#what-is-cozy)
     * [Install a Cozy environment](#install-a-cozy-environment)
     * [Get Budgup on my Cozy](#get-budgup-on-my-cozy)
 - [Releases](#releases)
@@ -26,7 +26,7 @@ Environment to use Budgup
 =========================
 
 What is Cozy
--------------
+------------
 
 Cozy is a personal web deployment platform, which enables you to quickly bootstrap applications and interact with your data.
  It stands on a server - between your application and the operating system - easing the pain of system administration,
