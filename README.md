@@ -16,7 +16,7 @@ Table of contents
 * [Releases](#releases)
     - [Release 0.2.0](#release-0-2-0)
     - [Release Alpha 1.0](#release-alpha)
-    - [Release Alpha bis 1.2](#release-alpha-bis)
+    - [Release Beta 2.0](#release-beta)
 * [Test the app](#test-the-app)
     - [Alpha and Beta testers](#alpha-and-beta-testers)
     - [Report the issues](#report-the-issues)
@@ -72,14 +72,15 @@ Release Alpha 1.0
  - [x] Give you a spending range (min / max) for the irregular operations 
  - [x] To handle the case where the same raw occurs more than once during the same month
  
-Release Alpha bis 1.2
+Release Beta 2.0
 ---------------------
 
  - [x] You can test the three versions of our super algorithm.
- - [x] Now you can dowload your own json file and apply the three version of the algorithm. Thus you can see the improvement of our releases.
+ - [x] Now you can download your own json file and apply the three version of the algorithm.  Thus you can see the improvement of our releases.
+ - [x] This release has removed the special characters
  
 Test the app
-------------
+============
 
 Alpha and Beta testers 
 ----------------------
