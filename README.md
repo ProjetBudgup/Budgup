@@ -82,6 +82,11 @@ Release Beta 2.0
 Test the app
 ============
 
+Tests of the app
+----------------
+
+You can test the application locally by lauching "npm test".
+
 Alpha and Beta testers 
 ----------------------
 
