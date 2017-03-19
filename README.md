@@ -1,15 +1,16 @@
 
 
 
-
-# Welcome to Budgup
+Welcome to Budgup
+=================
  
  Budgup is an application that helps you manage your money. Indeed, with our algorithm you can predict you balance at the end of the month.
  
 ![](/images/general_illustration.png)
 
  
-# Table of contents
+Table of contents
+=================
 
 * [Environment to use Budgup](#Environment-to-use-Budgup)
     * [What is Cozy?](#What-is-Cozy?)
@@ -18,27 +19,31 @@
 - [Releases](#Releases)
     - [Release 0.2.0](#Release-0.2.0)
     - [Release Alpha 1.0](##Release-Alpha-1.0)
-    - [Release Alpha bis 1.2](##Release-Alpha-bis-1.2)
+    - [Release Alpha bis 1.2](#Release-Alpha-bis-1.2)
 - [Test the app](#Test-the-app)
     - [Alpha and Beta testers](#Alpha-and-Beta-testers)
     - [Report the issues](#Report-the-issues)
 
 
-# Environment to use Budgup
+Environment to use Budgup
+=========================
 
-## What is Cozy?
+What is Cozy?
+------------
 
 Cozy is a personal web deployment platform, which enables you to quickly bootstrap applications and interact with your data.
  It stands on a server - between your application and the operating system - easing the pain of system administration,
  web development and security. Get your data back home!
 
-## Install a Cozy environment
+Install a Cozy environment
+------------
 
 To install a Cozy environment on your computer, follow that tutorial : 
 
 -> [Tutorial to install the environment](https://dev.cozy.io/v2.html#set-up-the-development-environment) <-
 
-## Get Budgup on my Cozy
+Get Budgup on my Cozy
+---------------------
 
 Once the environment installed, you can get Budgup. Follow these steps :
 
@@ -49,17 +54,20 @@ Once the environment installed, you can get Budgup. Follow these steps :
 5. Click on Budgup :) Your app is ready !
 
 
-# Releases
+Releases
+============
 
 
-## Release 0.2.0
+Release 0.2.0
+-------------
  
  With that first version of budgup you can :
  
   - [x] See all you future spent in a very explicit way.
   - [x] Anticipate you balance : if an operation occurred more than twice during the last three months, that means that you'll probably have the same the next month.
   
-## Release Alpha 1.0
+Release Alpha 1.0
+-----------------
  
  Thanks to the features coming, the algorithm will be more precise. It will be able to :
  
@@ -67,14 +75,17 @@ Once the environment installed, you can get Budgup. Follow these steps :
  - [x] Give you a spending range (min / max) for the irregular operations 
  - [x] To handle the case where the same raw occurs more than once during the same month
  
-## Release Alpha bis 1.2
+Release Alpha bis 1.2
+---------------------
 
  - [x] You can test the three versions of our super algorithm.
  - [x] Now you can dowload your own json file and apply the three version of the algorithm. Thus you can see the improvement of our releases.
  
-# Test the app
+Test the app
+-----------
 
-## Alpha and Beta testers 
+Alpha and Beta testers 
+----------------------
 
 First, we want to thank you to help us to improve our software by testing it. The following lines will explain you how to 
 test Budgup and also how to report us the bugs or issues. 
@@ -84,7 +95,8 @@ test Budgup and also how to report us the bugs or issues.
  - Click on the app
  - Import your bank json files to analyse by algorithms and test it
  
-## Report the issues
+Report the issues
+-----------------
  
  If you notice a bug, please create a new issue [there](https://github.com/ProjetBudgup/Budgup/issues) or send a mail to projetbudgup@gmail.com.
  
