@@ -35,8 +35,8 @@ gulp.task('codacy', function sendToCodacy() {
         ;
 });
 
-gulp.task('lint', function () {
-    gulp.src('./**/*.js')
+/*gulp.task('lint', function () {
+    gulp.src('./**//**.js')
         .pipe(jshint())
 });
 
@@ -48,7 +48,7 @@ gulp.task('develop', function () {
         .on('restart', function () {
             console.log('restarted!')
         })
-});
+});*/
 
 
 // Sonar
@@ -116,8 +116,8 @@ gulp.task('test', ['pre-test'], function () {
 });
 
 
-// On enlève test pour le moment car on n'a pas simulé cozy
+// On enlève test, 'lint','develop','pre-test' pour le moment car on n'a pas simulé cozy
 
-gulp.task('default', sequence(['lint','develop','pre-test','codacy', 'coveralls']));
+gulp.task('default', sequence(['codacy', 'coveralls']));
 
 
