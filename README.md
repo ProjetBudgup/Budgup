@@ -13,11 +13,11 @@ Table of contents
     * [What is Cozy?](#what-is-cozy)
     * [Install a Cozy environment](#install-a-cozy-environment)
     * [Get Budgup on my Cozy](#get-budgup-on-my-cozy)
-- [Releases](#releases)
+* [Releases](#releases)
     - [Release 0.2.0](#release-0-2-0)
     - [Release Alpha 1.0](#release-alpha)
     - [Release Alpha bis 1.2](#release-alpha-bis)
-- [Test the app](#test-the-app)
+* [Test the app](#test-the-app)
     - [Alpha and Beta testers](#alpha-and-beta-testers)
     - [Report the issues](#report-the-issues)
 
