@@ -1,3 +1,4 @@
+
 var gulp = require("gulp");
 var codacy = require("gulp-codacy");
 var gulpIf = require("gulp-if");
@@ -35,8 +36,8 @@ gulp.task('codacy', function sendToCodacy() {
         ;
 });
 
-/*gulp.task('lint', function () {
-    gulp.src('./**//**.js')
+gulp.task('lint', function () {
+    gulp.src('./**/*.js')
         .pipe(jshint())
 });
 
@@ -48,7 +49,7 @@ gulp.task('develop', function () {
         .on('restart', function () {
             console.log('restarted!')
         })
-});*/
+});
 
 
 // Sonar
@@ -94,7 +95,7 @@ gulp.task('sonar', function () {
 //  Tests
 
 gulp.task('pre-test', function () {
-    return gulp.src(['test/*.js'])
+    return gulp.src(['lib/**/*.js'])
     // Covering files
         .pipe(istanbul())
         // Force `require` to return covered files
@@ -115,9 +116,4 @@ gulp.task('test', ['pre-test'], function () {
         .pipe(istanbul.enforceThresholds({ thresholds: { global: 90 } }));
 });
 
-
-// On enlève test, 'lint','develop','pre-test' pour le moment car on n'a pas simulé cozy
-
-gulp.task('default', sequence(['codacy', 'coveralls']));
-
-
+gulp.task('default', sequence(['lint','develop','pre-test','codacy', 'coveralls','test']));
