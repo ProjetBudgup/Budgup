@@ -5,7 +5,10 @@ env:
 
 node_js:
   - "4.3.0"
-
+  
+services:
+    - couchdb
+    
 script:
   - gulp
 
