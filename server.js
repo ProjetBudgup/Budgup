@@ -29,7 +29,7 @@ app.use(bankOperationController);
     Start the HTTP server.
 */
 cozydb.configure(__dirname, null, function() {
-var server = app.listen(9104, function () {
+var server = app.listen(app.get('port'), function () {
   var host = server.address().address;
   var port = server.address().port;
 
